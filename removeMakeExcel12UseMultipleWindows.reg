@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\.xlsx]
+"Content Type"="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+@="MakeExcel12UseMultipleWindows"
+"PerceivedType"="document"
+
+[-HKEY_CURRENT_USER\Software\Classes\MakeExcel12UseMultipleWindows]
